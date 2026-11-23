@@ -1,0 +1,15 @@
+/workspaces/Lab02-UML/bin/Debug/net10.0/Lab02-UML
+/workspaces/Lab02-UML/bin/Debug/net10.0/Lab02-UML.deps.json
+/workspaces/Lab02-UML/bin/Debug/net10.0/Lab02-UML.runtimeconfig.json
+/workspaces/Lab02-UML/bin/Debug/net10.0/Lab02-UML.dll
+/workspaces/Lab02-UML/bin/Debug/net10.0/Lab02-UML.pdb
+/workspaces/Lab02-UML/obj/Debug/net10.0/Lab02-UML.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Lab02-UML/obj/Debug/net10.0/Lab02-UML.AssemblyInfoInputs.cache
+/workspaces/Lab02-UML/obj/Debug/net10.0/Lab02-UML.AssemblyInfo.cs
+/workspaces/Lab02-UML/obj/Debug/net10.0/Lab02-UML.csproj.CoreCompileInputs.cache
+/workspaces/Lab02-UML/obj/Debug/net10.0/Lab02-UML.sourcelink.json
+/workspaces/Lab02-UML/obj/Debug/net10.0/Lab02-UML.dll
+/workspaces/Lab02-UML/obj/Debug/net10.0/refint/Lab02-UML.dll
+/workspaces/Lab02-UML/obj/Debug/net10.0/Lab02-UML.pdb
+/workspaces/Lab02-UML/obj/Debug/net10.0/Lab02-UML.genruntimeconfig.cache
+/workspaces/Lab02-UML/obj/Debug/net10.0/ref/Lab02-UML.dll
